@@ -8,11 +8,7 @@ El programa permite modificar la escala, posición y rotación de los objetos, a
 
 ### Demostración en video
 
-<p align="center">
-  <a href="src/img/demo/demojava3d.mp4">
-    <strong>▶ Ver demostración completa de Paint 3D</strong>
-  </a>
-</p>
+https://github.com/user-attachments/assets/09be640c-3351-4b54-8835-ceecf915bca1
 
 Esta es la interfaz principal al seleccionar una figura. En el lado izquierdo se muestra el objeto 3D y en el panel derecho se encuentran los controles de transformación, representación y materiales.
 
